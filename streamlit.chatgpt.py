@@ -68,8 +68,7 @@ div[data-testid="stChatInput"] {
 </style>
 """,
     unsafe_allow_html=True
-)AI 
-
+)
 
 # -----------------------------------
 # LOAD ENV
